@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-color: rgb(225, 123, 154);
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#intro{
+    background-color: rgb(182, 220, 238);
+}
+
+
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
